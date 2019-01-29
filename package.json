@@ -1,0 +1,25 @@
+{
+  "name": "pool-caio",
+  "version": "1.0.0",
+  "description": "Just some DS experiments with work task pool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuanAraldi/pool-caio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuanAraldi/pool-caio/issues"
+  },
+  "homepage": "https://github.com/LuanAraldi/pool-caio#readme",
+  "dependencies": {
+    "asana": "^0.16.6",
+    "request-promise-native": "^1.0.5",
+    "request-rate-limiter": "^1.0.2",
+    "sync-request": "^6.0.0"
+  }
+}

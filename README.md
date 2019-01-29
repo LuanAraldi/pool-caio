@@ -1,2 +1,2 @@
 # pool-caio
-Just some DS experiments with work task pool
+Just some DS experiments with work related data
